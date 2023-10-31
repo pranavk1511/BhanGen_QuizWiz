@@ -8,7 +8,7 @@ CORS(app, resources={r'/*': {'origins': '*'}})
 
 import openai
 import json
-openai.api_key = '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'
+openai.api_key = ''
 import mysql.connector
 
 # connect with MySQL database
